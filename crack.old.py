@@ -100,61 +100,51 @@ class Main:
 		if hoga in ["", " "]:
 			Main()
 		elif hoga in ["1", "01"]:
-			if basesplit in plr:
 				self.old_11()
 			else: 
 				notice()
 				exit()
 		elif hoga in ["2", "02"]:
-			if basesplit in plr:
 				self.old_11()
 			else: 
 				notice()
 				exit()
 		elif hoga in ["3", "03"]:
-			if basesplit in plr:
 				self.shanto9()
 			else: 
 				notice()
 				exit()
 		elif hoga in ["4", "04"]:
-			if basesplit in plr:
 				self.oldcrack()
 			else: 
 				notice()
 				exit()
 		elif hoga in ["5", "05"]:
-			if basesplit in plr:
 				self.old4_7()
 			else: 
 				notice()
 				exit()
 		elif hoga in ["6", "06"]:
-			if basesplit in plr:
 				self.old4_6()
 			else: 
 				notice()
 				exit()
 		elif hoga in ["7", "07"]:
-			if basesplit in plr:
 				self.old4_5()
 			else: 
 				notice()
 				exit()
 		elif hoga in ["8", "08"]:
-			if basesplit in plr:
 				self.shanto4()
 			else: 
 				irfan()
 				exit()
 		elif hoga in ["9", "09"]:
-			if basesplit in plr:
 				self.email()
 			else: 
 				notice()
 				exit()
 		elif hoga in ["10","১০"]:
-			if basesplit in plr:
 				self.oldcrack()
 			else:
 				notice()

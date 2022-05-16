@@ -95,7 +95,6 @@ class Main:
 		print("%s [%s7%s]%s CRACK RANDOM FB ID 2004-5 %s(PRO) V3"%(R,G,R,Y,G))
 		print("%s [%s8%s]%s CRACK RANDOM FB ID 2003-4 %s(Maintenance Break) V3"%(R,G,R,Y,G))
 		print("%s [%s9%s]%s CRACK FROM EMAILS %s(PRO)"%(R,G,R,Y,G))
-		print(GET)
 		hoga = input("\n%s [?] CHOICE : "%(B))
 		if hoga in ["", " "]:
 			Main()
